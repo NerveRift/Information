@@ -1,3 +1,5 @@
 # Music-Quiz-Public
 
-- Server Storage.
+Music Quiz Server Storage.
+
+© NerveRift 2020
