@@ -1,4 +1,4 @@
-# Music-Quiz-Public
+# Music Quiz Public
 
 Music Quiz Server Storage.
 
