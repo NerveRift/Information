@@ -1,1 +1,1 @@
-Changes In v2.39: Resolved Several Errors That Would Cause The Program To Fail
+Changes In v2.4: Added Security Policy And Community Guidelines
