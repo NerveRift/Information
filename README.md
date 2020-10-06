@@ -9,12 +9,10 @@ Only Directing Staff have access to this organisation's private repositorys and 
 
 The [NerveRift Staff](https://github.com/NerveRiftStaff) Organisation is where staff employed by NerveRift can make changes to code.
 
-This may or may not be then pushed to the [Official NerveRift Organisation](https://github.com/NerveRift)
+This may or may not be then pushed to the [Official NerveRift Organisation](https://github.com/NerveRift) by Directing Staff.
 
 ## Contributers
 
 The [NerveRift Open](https://github.com/NerveRiftOpen) Organisation is where contributers create or edit code that is often unrelated to the main goal at NerveRift.
-
-This is where contributers can prove their worth and be given a job at NerveRift.
 
 #### © NerveRift 2020
